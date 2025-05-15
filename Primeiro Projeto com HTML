@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+    <head>
+        <title>Empório Sírio Libanês</title>
+        <meta name="keywords" content="restaurante sírio-libanês,esfiha,falafel,tabule">
+        <meta name="discription" content="Site de restaurante arabé">
+        <link rel="stylesheet" href="emporium.css">
+        <link rel="icon" href="arab.png" type="img/x-icon">
+    </head>
+
+    <body>
+       <div>
+        <header class="topper">
+            <a href="http://127.0.0.1:5500/Emporium.html" target="_self">Inicio</a>
+            <a href="https://web.whatsapp.com/" target="_blank">Whatsapp</a>
+            <a href="https://maps.app.goo.gl/WQMwi6JRiU2PGXo96" target="_blank">localização</a>
+        </header>
+    </div>
+     <div>
+        <header class="topus">
+            <img src="arab.png"> 
+            <h1>Empório Sírio Libanês</h1> 
+            <h4>O verdadeiro sabor arabé no corção da cidade</h4>
+       </header>
+
+    </div>
+    <header class="button" >
+        <a id="vermelho"//127.0.0.1:5500/Emporium.html" target="_blank">
+           <button id="vermelho">Inicio</button>
+        </a> 
+        <a href="https://web.whatsapp.com/" target="_blank">
+            <button id="verde">Whatsapp</button>
+        </a>  
+        <a href="https://maps.app.goo.gl/WQMwi6JRiU2PGXo96" target="_blank">
+            <button id="white">localização</button>
+        </a>  
+   </header>
+</div>
+
+<div class="tropeiro">
+    <section>
+        <img src="test.png" alt="">
+    </section>
+</div>
+
+   
+<div class="section1">
+    <section>
+      <h1>Sobre Nós</h1>
+      <h4>Emporium Sírio Libanês, trazemos a culinária árabe tradicional com multo carinho com autenticidade</h4>
+    </section>
+
+</div>
+
+<div>
+    <section class="section2">
+        <img src="esta.png">
+    </section>
+</div>
+        
+    
+<footer>
+    <div class="instagram">
+        <img src="int.png">
+        <a href="https://www.instagram.com/emporiosirio_official/" target="_blank">Instagram</a>
+    </div>
+
+
+</footer>
+ </body>
+<script></script>
+
+
+
+
+</html>
