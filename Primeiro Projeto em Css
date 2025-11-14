@@ -1,115 +1,106 @@
-.topper{
-    background-color: red;
-    text-align: right;
-    height: 10px;
-    padding-top: 40px;
-    padding-bottom: 50px;
-    margin: 0%;  
-}
-.topper a{
-    color: white;
-    text-decoration: none;
-    text-shadow: none;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
-    padding-left: 10px;
-}
-.topus img{
-    width: 200px;
-    height: 200px;
-    padding-left: 850px;
-}
-.topus h1,h4{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 10px;
-    font-size: x-large;
-}
-.button{
-padding-left: 710px;
-margin-bottom: 10px;
-}
-#vermelho{
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: red;
-    height: 40px;
-    width: 150px;
-    border: 1px  solid;
-    border-radius: 9px;
-    margin-right: 10px;
-}
-#verde{
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(68, 244, 71);
-    height: 40px;
-    width: 150px;
-    border: 1px  solid;
-    border-radius: 9px;
-    margin-right: 10px;
-}
-
-#white{
-    color: rgb(255, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(255, 255, 255);
-    height: 40px;
-    width: 150px;
-    border: 1px  solid;
-    border-radius: 9px;
-}
-
-.tropeiro img{
-    width:1900px;
-    height:300px;
-
-}
-
-.section1 h1{
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
-}
-
-.section1 h4{
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:small
-}
-.section2 img{
-    width: 300px;
-    height: 300px;
-    margin-left: auto;
-    margin-right: auto;
-}
- 
-
-
-.instagram img{
-    width: 50px;
-
-}
-.instagram a{
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        text-decoration: none;
-        color: black;
-        font-size: xx-large;
-        text-align: center;
-        width: 70px;
-        
+    .topper{
+        background-color: red;
+        text-align: right;
+        height: 10px;
+        padding-top: 40px;
+        padding-bottom: 50px;
+        margin: 0%;  
     }
-
-
-
-
-
-
-
-
-
-
-footer{
-    background-color: red;
-    height: 100px;
-}
+    .topper a{
+        color: white;
+        text-decoration: none;
+        text-shadow: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
+        padding-left: 10px;
+    }
+    .topus img{
+        width: 200px;
+        height: 200px;
+        padding-left: 850px;
+    }
+    .topus h1,h4{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 10px;
+        font-size: x-large;
+    }
+    .button{
+    padding-left: 710px;
+    margin-bottom: 10px;
+    }
+    #vermelho{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: red;
+        height: 40px;
+        width: 150px;
+        border: 1px  solid;
+        border-radius: 9px;
+        margin-right: 10px;
+    }
+    #verde{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(68, 244, 71);
+        height: 40px;
+        width: 150px;
+        border: 1px  solid;
+        border-radius: 9px;
+        margin-right: 10px;
+    }
+    
+    #white{
+        color: rgb(255, 0, 0);
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(255, 255, 255);
+        height: 40px;
+        width: 150px;
+        border: 1px  solid;
+        border-radius: 9px;
+    }
+    
+    .tropeiro img{
+        width:1900px;
+        height:300px;
+    
+    }
+    
+    .section1 h1{
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+    }
+    
+    .section1 h4{
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:small
+    }
+    .section2 img{
+        width: 300px;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+     
+    
+    
+    .instagram img{
+        width: 50px;
+    
+    }
+    .instagram a{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-decoration: none;
+            color: black;
+            font-size: xx-large;
+            text-align: center;
+            width: 70px;
+            
+        }
+    
+    footer{
+        background-color: red;
+        height: 100px;
+    }
