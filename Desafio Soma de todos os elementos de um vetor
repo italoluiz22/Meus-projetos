@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int numero[5];
+    int i;
+    int soma = 0;
+
+    for (i = 0; i < 5; i++) {
+        printf("Digite um valor: ");
+        scanf("%d", &numero[i]);
+        soma = soma + numero[i];
+    }
+
+    for (i = 0; i < 5; i++) {
+        printf("Valor digitado: %d\n", numero[i]);
+    }
+
+    printf("Soma dos valores: %d\n", soma);
+
+    return 0;
+}
