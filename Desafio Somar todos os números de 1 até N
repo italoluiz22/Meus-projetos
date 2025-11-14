@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+int N;
+int soma=0;
+int i;
+int numero=0;
+
+printf("Quantos Numeros?");
+scanf("%d",&N);
+
+ for(i=0;i<N;i++) {
+    printf("digite um numero :");
+    scanf("%d",&numero);
+    soma=soma+numero;
+ }
+ printf("total :%d",soma);
+    
+    return 0;
+}
